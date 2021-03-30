@@ -1,0 +1,24 @@
+@import url('http://font.googleapis.com/css/familiy=Quicksand:400,500&subset=latin-ext');
+body {
+	margin: 0;
+	padding: 0;
+	background: url(bg.jpg) no-repeat;
+	background-size: cover;
+}
+
+.box { 
+	width: 450px;
+	background: rgba(0,0,0,0,4);
+	text-align: center;
+	padding: 40px;
+	margin: auto;
+	margin-top: 3%;
+	color: white;
+	font-family: sans-serif;
+	border: 4px;
+}
+
+.box-h1{
+	font-family: 'kelly Slab', cursive;
+}
+
